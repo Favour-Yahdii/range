@@ -1,0 +1,6 @@
+name: range-env
+dependencies:
+  - python
+  - flake 8
+  - pytest
+  - black
