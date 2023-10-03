@@ -1,6 +1,7 @@
 name: range-env
 dependencies:
   - python
-  - flake 8
+  - flake8
   - pytest
   - black
+  - cookiecutter
